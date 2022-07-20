@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+[<img src="/images/banner.gif" />](https://suryakannankumbhar.netlify.app/)
+<br />
+<h1 align="center">Free Advice</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div><img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="250px" align='right'>
 
-## Available Scripts
+<p>Free Advice is a simple webapp that gives a <strong>New</strong> and <strong>Witty Advice</strong> everytime you click the button!
+</p>
+<p>The webapp is made using <strong>REACT</strong>,<strong> CSS</strong> and<strong> API</strong>.</p>
+<p>The Advices are fetched from <strong>Advice Slip API </strong></p>
+<br />
+<h3>TechStack</h3>
+<div flexDirection="row">
+<img src="https://img.shields.io/static/v1?label=REACT&message= &color=green"> <img src="https://img.shields.io/static/v1?label=CSS&message= &color=orange"> <img src="https://img.shields.io/static/v1?label=JavaScript&message= &color=blue"> <img src="https://img.shields.io/static/v1?label=API&message=Advice Slip API &color=red">
+</div>
+<br />
+<h3>API Source</h3>
+<p>The Advices are fetched from Advice Slip API.</p>
+<p>The API Endpoint used to fetch Advices: <a href="https://api.adviceslip.com/advice">https://api.adviceslip.com/advice</a></p>
+<img src="./images/readme/Screenshot%202022-07-20%20231105.png" width="750" title="Home Screen">
+<br />
+<h3>Some Adices for You!</h3>
+<img src="./images/readme/Screenshot%202022-07-20%20230714.png" width="750" title="New Notes">
+<img src="./images/readme/Screenshot%202022-07-20%20230747.png" width="750" title="Adding Notes">
+<img src="./images/readme/Screenshot%202022-07-20%20230918.png" width="750" title="Colorfull Notes">
+<img src="./images/readme/Screenshot%202022-07-20%20230957.png" width="750" title="Searching Notes">
+<img src="./images/readme/Screenshot%202022-07-20%20231046.png" width="750" title="Searching Notes">
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br >
+<h3>some github stats?</h3>
+<p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-stats"><img alt="Surya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryakannankumbhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-stats"><img alt="Surya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakannankumbhar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-activity-graph"><img alt="Surya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suryakannankumbhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakannankumbhar&theme=highcontrast&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="suryakannankumbhar" /></p>
+<br />
