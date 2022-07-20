@@ -8,6 +8,7 @@
 </p>
 <p>The webapp is made using <strong>REACT</strong>,<strong> CSS</strong> and<strong> API</strong>.</p>
 <p>The Advices are fetched from <strong>Advice Slip API </strong></p>
+<p>Try it Now!! --> <a href="https://free-advice-v1.netlify.app/">Free Advice</a> </p>
 <br />
 <h3>TechStack</h3>
 <div flexDirection="row">
