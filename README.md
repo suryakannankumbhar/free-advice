@@ -1,4 +1,4 @@
-[<img src="/images/banner.gif" />](https://suryakannankumbhar.netlify.app/)
+[<img src="./images/readme/banner.gif" />](https://suryakannankumbhar.netlify.app/)
 <br />
 <h1 align="center">Free Advice</h1>
 
