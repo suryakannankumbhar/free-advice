@@ -18,14 +18,18 @@
 <h3>API Source</h3>
 <p>The Advices are fetched from Advice Slip API.</p>
 <p>The API Endpoint used to fetch Advices: <a href="https://api.adviceslip.com/advice" target="_blank">https://api.adviceslip.com/advice</a></p>
-<img src="./images/readme/Screenshot%202022-07-20%20231105.png" width="750" title="Home Screen">
+<kdb><img src="./images/readme/Screenshot%202022-07-20%20231105.png" width="750" title=""></kdb>
 <br />
-<h3>Some Adices for You!</h3>
-<img src="./images/readme/Screenshot%202022-07-20%20230714.png" width="750" title="New Notes">
-<img src="./images/readme/Screenshot%202022-07-20%20230747.png" width="750" title="Adding Notes">
-<img src="./images/readme/Screenshot%202022-07-20%20230918.png" width="750" title="Colorfull Notes">
-<img src="./images/readme/Screenshot%202022-07-20%20230957.png" width="750" title="Searching Notes">
-<img src="./images/readme/Screenshot%202022-07-20%20231046.png" width="750" title="Searching Notes">
+<h3>Some Advices for You!😊</h3>
+<kdb><img src="./images/readme/Screenshot%202022-07-20%20230714.png" width="750" title=""></kdb>
+<kdb><img src="./images/readme/Screenshot%202022-07-20%20230747.png" width="750" title="">
+</kdb>
+<kdb><img src="./images/readme/Screenshot%202022-07-20%20230918.png" width="750" title="">
+</kdb>
+<kdb><img src="./images/readme/Screenshot%202022-07-20%20230957.png" width="750" title="">
+</kdb>
+<kdb><img src="./images/readme/Screenshot%202022-07-20%20231046.png" width="750" title="">
+</kdb>
 
 <br >
 <h3>some github stats?</h3>
