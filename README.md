@@ -1,4 +1,4 @@
-[<img src="/images/banner.gif" />](https://suryakannankumbhar.netlify.app/)
+[<img src="./images/readme/banner.gif" />](https://suryakannankumbhar.netlify.app/)
 <br />
 <h1 align="center">Free Advice</h1>
 
@@ -8,6 +8,7 @@
 </p>
 <p>The webapp is made using <strong>REACT</strong>,<strong> CSS</strong> and<strong> API</strong>.</p>
 <p>The Advices are fetched from <strong>Advice Slip API </strong></p>
+<p>Try it Now!! --> <a href="https://free-advice-v1.netlify.app/" target="_blank">Free Advice</a> </p>
 <br />
 <h3>TechStack</h3>
 <div flexDirection="row">
@@ -16,7 +17,7 @@
 <br />
 <h3>API Source</h3>
 <p>The Advices are fetched from Advice Slip API.</p>
-<p>The API Endpoint used to fetch Advices: <a href="https://api.adviceslip.com/advice">https://api.adviceslip.com/advice</a></p>
+<p>The API Endpoint used to fetch Advices: <a href="https://api.adviceslip.com/advice" target="_blank">https://api.adviceslip.com/advice</a></p>
 <img src="./images/readme/Screenshot%202022-07-20%20231105.png" width="750" title="Home Screen">
 <br />
 <h3>Some Adices for You!</h3>
